@@ -1,0 +1,5 @@
+# Alternation: first primary then secondary (both stocked, no failures)
+GT4500,2,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+

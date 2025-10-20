@@ -1,0 +1,4 @@
+# ALL: one store fails but the other succeeds -> overall SUCCESS
+GT4500,1,1,1,0
+TORPEDO,ALL
+

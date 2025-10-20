@@ -1,0 +1,4 @@
+# ALL: both stores have torpedoes and fire successfully
+GT4500,1,0,1,0
+TORPEDO,ALL
+
