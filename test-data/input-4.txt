@@ -1,0 +1,5 @@
+# Fired store fails; when the chosen store fails, do not try the other one
+# Make the primary fail so SINGLE will try primary first and it fails
+GT4500,1,1,1,0
+TORPEDO,SINGLE
+
